@@ -1,0 +1,7 @@
+C:\Users\Vicky\source\repos\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe.config
+C:\Users\Vicky\source\repos\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe
+C:\Users\Vicky\source\repos\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.pdb
+C:\Users\Vicky\source\repos\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csprojAssemblyReference.cache
+C:\Users\Vicky\source\repos\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\source\repos\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.exe
+C:\Users\Vicky\source\repos\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.pdb
